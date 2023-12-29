@@ -1,6 +1,7 @@
 # Simple Function Calling System
 
 This project implements a lightweight function calling system based on sentence embeddings and cosine similarity. It allows users to define functions represented by sentences and map user input to the most similar function.
+This system was designed to run on a CPU with very low overhead.
 
 ## Key Features
 
